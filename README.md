@@ -1,1 +1,1 @@
-Click [here](https://eckara.github.io/EVViz) for a live demo 
+Click [here](http://eckara.github.io/EVViz) for a live demo 
